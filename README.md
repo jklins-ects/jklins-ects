@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there. I'm Jason Klins.
+- I am the computer programming instructor at the Erie County Technical School.
+- I am interested in coding as well as many other STEM areas, nature, and trying to find the best way to sit back and chill. 
+- I am currently working on developing new and engaging curriculums for my high school students.
+- I can be reached at jklins@ects.org
 
 <!--
 **jklins-ects/jklins-ects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
